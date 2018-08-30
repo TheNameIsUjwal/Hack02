@@ -5,7 +5,7 @@
 
 #include<stdio.h>
 #include<stdlib.h>
-#include<math.io>
+#include<math.h>
 #define Earth = 6371
 #define pi = 3.1415
 
